@@ -1,0 +1,8 @@
+Ruta: http://localhost:3000:
+Al acceder a esta ruta se muestra el mensaje "Servidor activo". Esta es la ruta principal y confirma que el servidor está funcionando correctamente.
+
+Ruta: http://localhost:3000/saludo:
+Al acceder a esta ruta se muestra el mensaje "Hola comunidad". Es una ruta creada para enviar un saludo a los usuarios.
+
+Ruta: http://localhost:3000/mensaje/juan:
+Al acceder a esta ruta se muestra el mensaje "Hola juan". La ruta utiliza un parámetro dinámico que permite personalizar el saludo según el nombre escrito en la URL.

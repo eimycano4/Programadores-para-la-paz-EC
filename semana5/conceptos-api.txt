@@ -1,0 +1,15 @@
+Concepto 1: ¿Qué hace la ruta POST /reporte?
+
+La ruta POST `/reporte` permite que los usuarios envíen información al servidor mediante una solicitud HTTP de tipo POST.
+Esta ruta recibe un mensaje enviado en el cuerpo de la petición a través de la propiedad `req.body.mensaje`.
+Una vez recibe la información, el servidor la procesa y responde con un objeto JSON.
+La respuesta incluye un mensaje de confirmación indicando que el reporte fue recibido correctamente.
+Este tipo de rutas se utiliza cuando se necesita enviar datos desde un formulario, una aplicación web o una aplicación móvil hacia un servidor.
+
+Concepto 2: ¿Para qué podría servir esta ruta en una aplicación comunitaria?
+
+Esta ruta podría utilizarse para que los ciudadanos envíen reportes relacionados con situaciones que afectan a su comunidad.
+Por ejemplo, permitiría informar problemas como daños en las vías, fallas en el alumbrado público, acumulación de residuos, emergencias o situaciones de inseguridad.
+También podría emplearse para recibir sugerencias, peticiones, reclamos o comentarios de los habitantes sobre los servicios prestados por las entidades públicas.
+La información recibida podría almacenarse en una base de datos para facilitar su seguimiento y gestión.
+De esta manera, se mejora la comunicación entre la comunidad y las instituciones responsables, permitiendo una atención más eficiente y organizada de las necesidades ciudadanas.
