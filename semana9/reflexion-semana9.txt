@@ -1,0 +1,12 @@
+Es importante que las plataformas tecnológicas utilizadas por las 
+comunidades funcionen de manera estable y segura, 
+ya que muchas personas dependen de ellas para acceder a información,
+realizar trámites y participar en actividades comunitarias. 
+Cuando un servidor funciona correctamente, la plataforma permanece disponible 
+y responde de forma eficiente a las solicitudes de los usuarios. 
+Además, la seguridad permite proteger los datos personales y evitar accesos 
+no autorizados que puedan comprometer la información. 
+El monitoreo constante, los registros de actividad y las actualizaciones periódicas
+ayudan a prevenir errores y mantener el servicio en funcionamiento. 
+De esta manera, se fortalece la confianza de los ciudadanos en las herramientas 
+digitales y se garantiza una participación más segura y efectiva de la comunidad.

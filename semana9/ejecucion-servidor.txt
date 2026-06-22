@@ -1,0 +1,20 @@
+Al ejecutar el comando `node server.js`, el servidor se inicia correctamente.
+Este proceso permite que la aplicación quede disponible para recibir solicitudes.
+En la terminal aparece un mensaje indicando que el servidor está activo.
+Generalmente, el mensaje muestra el puerto donde está escuchando.
+Esto confirma que no hubo errores durante el inicio del servicio.
+Una vez iniciado, el servidor permanece en ejecución.
+Los usuarios pueden acceder a las rutas configuradas en la aplicación.
+Cada solicitud enviada es procesada por el servidor.
+La terminal también puede mostrar registros de actividad.
+Estos registros ayudan a verificar el funcionamiento del sistema.
+Al visitar la ruta `/estado`, se realiza una petición al servidor.
+El servidor responde con información en formato JSON.
+La respuesta confirma que el servicio se encuentra disponible.
+Esto permite validar que la API está funcionando correctamente.
+
+{
+"estado": "Servidor funcionando",
+"servicio": "API comunitaria"
+}
+
